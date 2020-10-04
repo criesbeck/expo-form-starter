@@ -8,6 +8,7 @@ The main changes are
 - a **Form.Switch** toggle component
 - title functions for **Form.Button**
 
+Note that **Form** is not the Formik's Form. 
 
 # Installation
 
